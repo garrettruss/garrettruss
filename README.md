@@ -1,4 +1,4 @@
-# Hi, I'm Garrett
+# Hi there! I'm Garrett
 
 ## About Me
 
@@ -10,4 +10,4 @@ I am a full stack developer with strong communication and project management wit
 
 #### Tools of the trade
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrettruss&layout=compact&exclude_repo=SQLLab)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrettruss&layout=compact&exclude_repo=SQLLab)
