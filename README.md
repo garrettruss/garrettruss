@@ -10,7 +10,4 @@ I am a full stack developer with strong communication and project management wit
 
 #### Tools of the trade
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrettruss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrettruss&layout=compact&exclude_repo=SQLLAB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrettruss&layout=compact&exclude_repo=SQLLab)]
