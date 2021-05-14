@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a full stack developer with strong communication and project management with a background in nonprofit development and sustainability. I am passionate to make technical contributions to the field of sustainable development.
+I am a full stack developer with strong communication and project management skills and a background in nonprofit development and sustainability. I am passionate to make technical contributions to the field of sustainable development.
 
 ### Stats
 
