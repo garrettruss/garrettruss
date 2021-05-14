@@ -10,4 +10,4 @@ I am a full stack developer with strong communication and project management ski
 
 #### Tools of the trade
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrettruss&layout=compact&exclude_repo=SQLLab,github-slideshow,GarrettRuss.github.io,50projects50days,Noticeboard_API,Noticeboard_Client,portfolio)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrettruss&layout=compact&exclude_repo=SQLLab,github-slideshow,GarrettRuss.github.io,50projects50days,Noticeboard_API,Noticeboard_Client,portfolio,GlitchInTheMatrix)
