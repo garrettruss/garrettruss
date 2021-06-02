@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a motivated full stack developer with strong communication and project management skills and experience in the designing, planning, and maintenance of software. I wish to work with a diverse team that works towards contributing to the company’s vision and goals
+I am a motivated full stack developer with strong communication and project management skills and experience in the designing, planning, and maintenance of software. I wish to work with a diverse team that works towards contributing to the company’s vision and goals.
 
 ### Tools of the trade
 
