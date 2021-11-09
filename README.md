@@ -7,6 +7,3 @@ I am a motivated full stack developer with strong communication and project mana
 ### Lets connect
 
 [Linkedin](https://www.linkedin.com/in/garrettmruss/)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrettruss&hide=css,scss,html&count_private=true&langs_count=9&exclude_repo=reactjs-interview-questions,50projects50days,portfolio)](https://github.com/anuraghazra/github-readme-stats)
