@@ -9,4 +9,5 @@ I am a motivated full stack developer with strong communication and project mana
 [Linkedin](https://www.linkedin.com/in/garrettmruss/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrettruss&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrettruss&hide=css&count_private=true)
+)](https://github.com/anuraghazra/github-readme-stats)
