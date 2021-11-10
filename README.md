@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a motivated full stack developer with strong communication and project management skills and experience in the designing, planning, and maintenance of software. I wish to work with a diverse team that works towards contributing to the company’s vision and goals.
+Full-stack developer with a background in environmental nonprofit development, renewable energy, globalization, and sustainability studies. I am interested in utilizing technology for advancements in Sustainable Development.
 
 ### Lets connect
 
